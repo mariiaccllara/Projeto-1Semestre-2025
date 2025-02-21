@@ -1,4 +1,4 @@
-package com.programacao.web.fatec.api_fatec;
+package com.programacao.controllers;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
